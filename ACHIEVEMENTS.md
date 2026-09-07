@@ -15,3 +15,19 @@ This repository tracks GitHub achievements unlocked for @Aj2280:
 | Gold (x3) | 128 PRs | ⏳ |
 | Platinum (x4) | 1024 PRs | ⏳ |
 
+## Galaxy Brain Milestones
+| Tier | Accepted Answers | Status |
+| --- | --- | --- |
+| Default (Bronze) | 2 accepted answers | 🧠 Pending |
+| Silver (x2) | 8 accepted answers | ⏳ |
+| Gold (x3) | 16 accepted answers | ⏳ |
+| Platinum (x4) | 32 accepted answers | ⏳ |
+
+> [!IMPORTANT]
+> **Galaxy Brain Rules**:
+> 1. Requires answering a question in a public repository with **Q&A Discussions** enabled.
+> 2. The **original poster (OP)** or repository maintainer must mark your answer as accepted.
+> 3. Self-marking your own answer **does not count**.
+> 4. Answering in `github/community` does not award badges (disabled by GitHub to prevent spam).
+
+
